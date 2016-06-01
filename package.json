@@ -1,0 +1,23 @@
+{
+  "name": "hackathonbot",
+  "version": "1.0.0",
+  "description": "sample bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisa16/hackathonbot.git"
+  },
+  "author": "Lisa Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisa16/hackathonbot/issues"
+  },
+  "homepage": "https://github.com/lisa16/hackathonbot#readme",
+  "dependencies": {
+    "botbuilder": "^1.0.1",
+    "restify": "^4.1.0"
+  }
+}
